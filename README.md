@@ -1,0 +1,2 @@
+# LogiTalk
+Python GUI messanger
